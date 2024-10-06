@@ -1,5 +1,5 @@
 ## 介绍
-&emsp;&emsp;酒店管理系统，酒店预订系统，酒店客房管理系统，基于SpringBoot+Vue的酒店管理系统，具体功能如下图所示。
+&emsp;&emsp;汽车租赁系统，汽车租赁管理系统，基于SpringBoot+Vue的汽车租赁系统，具体功能如下图所示。
 
 > 1. 后端技术：SpringBoot+MyBatis-Plus
 > 2. 前端技术：Vue
